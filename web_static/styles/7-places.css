@@ -1,0 +1,32 @@
+.places h1 {
+    position:relative;
+    width: 100%;
+    margin-top:5%;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.places {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 2%;
+    font-size: 30px;
+}
+
+.place_arts{
+    position: relative;
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border-style: solid;
+    border-color: #FF5A5F;
+    border-width: 1px;
+    border-radius: 4px;
+}
+
+.place_arts h2 {
+    font-size: 30px;
+    text-align: center;
+}
